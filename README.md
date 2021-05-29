@@ -3,7 +3,7 @@
 I am a junior year student at Amity Universuty, Noida. I have built some projects using Java. I am interested in developement and machine learning. Looking forward to do projects under collaborations.I love doing competetive programming too.
 
  Fun Facts:
--  Open to collaborate on projects that are using Java and Python.
+-  Open to collaborate on projects that are using MERN Stack.
 -  I’m currently learning Web Development and Competetive Programming.
 -  2021 Goals: To get strong on concepts of DSA ,build more projects and get a decent SDE Intern.
 -  How to reach me: https://www.linkedin.com/in/ansh-kumar-gupta-144123197/
