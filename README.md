@@ -1,6 +1,6 @@
 ## Hi, I am Ansh Kumar Gupta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you
 
-I am a senior year student at Amity University, Noida. I have built some projects using Java. I am interested in developement and machine learning. Looking forward to do projects under collaborations.I love doing competetive programming too.
+I am a senior year student at Amity University, Noida. I have built some projects using MERN Syack, Python, Java. I am interested in development and machine learning. Looking forward to do projects under collaborations.I love doing competetive programming too.
 
  Fun Facts:
 -  Open to collaborate on projects that are using MERN Stack.
