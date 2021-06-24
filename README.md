@@ -6,7 +6,7 @@ I am a senior year student at Amity University, Noida. I have built some project
 -  Open to collaborate on projects that are using MERN Stack.
 -  I’m currently learning Web Development and Competetive Programming.
 -  2021 Goals: To get strong on concepts of DSA ,build more projects and get a decent SDE Intern.
--  How to reach me: https://www.linkedin.com/in/ansh-kumar-gupta-144123197/
+-  How to reach me: https://www.linkedin.com/in/ansh7899/
 -  [Hackerrank Profile](https://www.hackerrank.com/Ansh7899)
 -  Pronouns: He/Him
 
@@ -43,7 +43,7 @@ I am a senior year student at Amity University, Noida. I have built some project
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/Ansh7899"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ansh-kumar-gupta-144123197/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/ansh7899/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/_ansh7899_/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/Ansh18566595"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
