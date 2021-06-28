@@ -9,6 +9,7 @@ I am a senior year student at Amity University, Noida. I have built some project
 -  How to reach me: https://www.linkedin.com/in/ansh7899/
 -  [Hackerrank Profile](https://www.hackerrank.com/Ansh7899)
 -  Pronouns: He/Him
+-  Do check my portfolio: https://ansh7899.github.io/portfolio/
 
  ###  GitHub Stats
 
@@ -45,5 +46,5 @@ I am a senior year student at Amity University, Noida. I have built some project
 	<a href="https://github.com/Ansh7899"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ansh7899/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/_ansh7899_/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/Ansh18566595"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/Ansh7899"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
