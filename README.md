@@ -4,7 +4,7 @@ I am a senior year student at Amity University, Noida. I have built some project
 
  Fun Facts:
 -  Open to collaborate on projects that are using MERN Stack.
--  I’m currently learning Web Development and Competetive Programming.
+-  I’m currently mastering Web Development and Competetive Programming.
 -  2021 Goals: To get strong on concepts of DSA ,build more projects and get a decent SDE Intern.
 -  How to reach me: https://www.linkedin.com/in/ansh7899/
 -  [Hackerrank Profile](https://www.hackerrank.com/Ansh7899)
