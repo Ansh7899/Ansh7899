@@ -1,11 +1,11 @@
 ## Hi, I am Ansh Kumar Gupta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you
 
-I am a senior year student at Amity University, Noida. I have built some projects using MERN Syack, Python, Java. I am interested in development and machine learning. Looking forward to do projects under collaborations.I love doing competetive programming too.
+I am a Software Engineer(Backend) at Palo Alto Networks, Gurugram. Looking forward to doing projects under collaborations. Solving puzzles and playing sports are some of my favorite hobbies.
 
  Fun Facts:
--  Open to collaborate on projects that are using MERN Stack.
--  I’m currently mastering Web Development and Competetive Programming.
--  2021 Goals: To get strong on concepts of DSA ,build more projects and get a decent SDE Intern.
+-  Open to collaborating on projects that provide opportunities to learn.
+-  I’m currently learning Reactive Programming and competitive programming.
+-  2024 Goals: To get strong on concepts of DSA, build more projects, and contribute to open source.
 -  How to reach me: https://www.linkedin.com/in/ansh7899/
 -  [Hackerrank Profile](https://www.hackerrank.com/Ansh7899)
 -  Pronouns: He/Him
